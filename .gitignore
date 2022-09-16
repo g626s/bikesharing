@@ -1,0 +1,7 @@
+# DS Store
+.DS_Store
+
+# CSV
+201908-citibike-tripdata.csv
+
+clean_NYC_citibike.csv
