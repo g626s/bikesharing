@@ -17,5 +17,14 @@ In order to convince and solidify the proposal to our potential investors that a
 - Show the number of bike trips for each type of user and gender for each day of the week.
 
 ## Results 
-For this part of the project, we created a story in Tableau and wrote our findings that describes the key outcomes of the NYC Citibike analysis.
+For this part of the project, we created a story in Tableau and wrote our findings that describes the key outcomes of the NYC Citibike analysis:
+#### `August Peak Hours`
+![Screen Shot 2022-09-24 at 6 54 08 PM](https://user-images.githubusercontent.com/107281474/192124985-7d18233e-06f3-498b-817b-aa53650580b5.png)
+During the most profitable month of the year which is August, in New York City in which the data was collected the most popular hours were between the hours of 5-6pm`(Hour of Starttime: 17-18)` with a count of over 200,000 rides and the hours of 8-9am`(Hour of Startime: 8-9)` with a count of over 140,000 rides. From the `August Peak Hours` horizontal bar chart, a trend that was uncovered is that people in New York City more than likely use the 
+Citi Bike services to ride to and from their place of work as the typical working office hours fall within that timeframe. 
+
+#### `Bike Utilization`
+![Screen Shot 2022-09-24 at 7 13 08 PM](https://user-images.githubusercontent.com/107281474/192125321-48857212-2e3d-4dc2-8785-45cc7b6f2fc6.png)
+Our potential investors were curious about the bike utilization during the month of August after our initial findings in the `August Peak Hours` sheet. We then created a packed bubbles visualization called `Bike Utilization` to show the utilization of each Citi Bike in New York City. We used the bike ID as a metric for determining which bikes have the highest utilization. Since we found the number of trips per bike during the month of August, we needed to figure out how long those rides are and if there are bikes that need more attention than others. The bubbles in this plot show the bike utilization levels. If a bike has a higher utilization level, it will be a larger bubble. In addition the bike ID has a color filter from Red to Blue to distinguish the bike.
+
 
