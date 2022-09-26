@@ -39,7 +39,7 @@ From our `Checkout Time for Users` dashboard, we visualized and graphed the leng
 
 From the dashboard, nearly 81% of the Citi Bike users are subscribers, whereas 19% of that recorded demographic are customers that sometimes frequent the services of Citi Bike. As the visualization displays, user retention of Citi Bike is very high and any future business endavors or market openings should incorporate and highly advertise premium subscription incentives for subscribers and more features and benefits for customer conversion. In addition, the peak of minute of trip duration is 5 minutes inferring that customers use Citi Bike services for quick commutes.
 
-#### `Checkout Times by Gender`
+#### `Checkout Times By Gender`
 ![Screen Shot 2022-09-24 at 7 31 01 PM](https://user-images.githubusercontent.com/107281474/192174788-1e83c376-8dd7-444f-b21d-1170e56570d8.png)
 In this visualization, we graphed the length of time that bikes are checked out for each gender. In order to obtain this visualization we:
 - Repeated steps 1-4 of the `Checkout Times for Users` visualization.
