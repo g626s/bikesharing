@@ -81,6 +81,6 @@ In correlation to the `User Type Breakdown` pie chart, the heatmap nearly visual
 With the given Citi bike dataset, to help further analyze and help our potential investors reach a conclusion, we would recommend on creating two additional visualizations for further analysis and strategy. It would be imperitive and vital to know and observe the Citi Bike customers and subscribers by age as well as income. This would be done by implementing Tableau's calculated field to use date of birth to get the age of each count of rider in the dataset as well as creating another parameter to visualize income. Lastly, another metric that could be used to analyze the data is converting the activity into measurable categories to draw subscription and product strategies to many target markets.
 
 ## Tableau Public Link
-View the Tableay public story here:
+View the Tableau Public Story here:
 
 [link to dashboard](https://public.tableau.com/app/profile/gustavo.sanchez8211/viz/CitibikeBusinessProposal/CitibikeBusinessProposal)
