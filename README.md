@@ -58,6 +58,31 @@ In this visualization, we graphed the number of bike trips by weekday for each h
 
 From the visualization of the heatmap, it helps support the previous visualiztion `August Peak Hours` in that the concentration on the count of rides falls between the popular times during working office hours and days with the interesting exception of Wednesdays. Furthermore, Saturdays have the most centralized heat mapping in the afternoons and implementing a ride sharing discount or policy can help further increase revenue or product exposure in the target area. 
 
+#### `Trips by Gender (Weekday Per Hour)`
+![Screen Shot 2022-09-25 at 6 30 51 PM](https://user-images.githubusercontent.com/107281474/192183108-a2a6c91d-7377-40bc-82ce-f5a5e5ff43ef.png)
+In this visualization, we graphed the number of bike trips by gender for each hour of each day of the week as a heatmap. in order to obtain this, we:
+- Repeat steps 1-3 from the "Trips by Weekday per Hour" visualization.
+- Add the converted column for "Gender" to the Columns and to the Filters field, and select "Show Filter".
+- Format the Y axis of the Starttime by Hour to show the 12-hour format.
+
+From the visualization of the heatmap, the heatmap supports the `Checkout Times By Gender` visualization in which the trip duration time and trend by gender is apparent by the density of the color in the same time frames. 
+
+#### `User Trips By Gender By Weekday`
+![Screen Shot 2022-09-25 at 7 43 12 PM](https://user-images.githubusercontent.com/107281474/192183706-096d7ff4-7b9d-4444-8717-05267a7bf2a9.png)
+In this visualization, we created a heatmap that shows the number of bike trips broken down by gender for each day of the week by each Usertype. In order to obtain this heatmap, we:
+- Add the converted column for "Gender" to the Columns and to the Filters field, and select "Show Filter".
+- Add the "Usertype" to the Rows and to the Filters field, and select "Show Filter".
+- Add the "Starttime" column to the Rows, and filter the "More" option by "Weekday".
+- Add the number of records or the generated field that counts the number of records in the CSV file to the Marks field as a color. Select "Automatic" for the type of graph to create the heatmap.
+
+In correlation to the `User Type Breakdown` pie chart, the heatmap nearly visualizes the exact same data trend and behavior of number of subscribers of Citi Bike based on gender in which male subscribers are the most dominant compared ti female subscribers as well as customers. 
+
+## Summary 
+With the given Citi bike dataset, to help further analyze and help our potential investors reach a conclusion, we would recommend on creating two additional visualizations for further analysis and strategy. It would be imperitive and vital to know and observe the Citi Bike customers and subscribers by age as well as income. This would be done by implementing Tableau's calculated field to use date of birth to get the age of each count of rider in the dataset as well as creating another parameter to visualize income. Lastly, another metric that could be used to analyze the data is converting the activity into measurable categories to draw subscription and product strategies to many target markets.
+
+
+
+
 
 
 
