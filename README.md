@@ -47,3 +47,18 @@ In this visualization, we graphed the length of time that bikes are checked out 
 - Edit the X and Y axis labels by right-clicking on the axis label and selecting "Edit Axis".
 
 From the previous visualization, the checkout time trend between genders falls within the same timeframe and slope pattern. In the male category however, there is a massive slope and count of male riders than female and "unknown" customers. Although there are many customers who decide to not say their gender, the collection of data should have impleneted more inclusive answer selection to better understand the trip duration data. 
+
+#### `Trips by Weekday Per Hour`
+![Screen Shot 2022-09-25 at 6 14 17 PM](https://user-images.githubusercontent.com/107281474/192175961-47541f6a-3624-4f1f-ae53-d6f3db34319e.png)
+In this visualization, we graphed the number of bike trips by weekday for each hour of the day as a heatmap. In order to obtain this heatmap visualization we:
+- Add the "Starttime" column to the Rows, and filter the "More" option by "Hour".
+- Add the "Stoptime" column to the Columns, and filter the “More” option by "Weekday".
+- Add the number of records or the generated field that counts the number of records in the CSV file to the Marks field as a color. Select "Automatic" for the type of graph to create the heatmap.
+- Format the Y axis of the Starttime by Hour to show the 12-hour format.
+
+From the visualization of the heatmap, it helps support the previous visualiztion `August Peak Hours` in that the concentration on the count of rides falls between the popular times during working office hours and days with the interesting exception of Wednesday. Furthermore, Saturdays have the most centralized heeat mapping in the afternoons and implementing a ride sharing discount or policy can help further increase revenue or product exposure in the target area. 
+
+
+
+
+
