@@ -56,7 +56,7 @@ In this visualization, we graphed the number of bike trips by weekday for each h
 - Add the number of records or the generated field that counts the number of records in the CSV file to the Marks field as a color. Select "Automatic" for the type of graph to create the heatmap.
 - Format the Y axis of the Starttime by Hour to show the 12-hour format.
 
-From the visualization of the heatmap, it helps support the previous visualiztion `August Peak Hours` in that the concentration on the count of rides falls between the popular times during working office hours and days with the interesting exception of Wednesday. Furthermore, Saturdays have the most centralized heeat mapping in the afternoons and implementing a ride sharing discount or policy can help further increase revenue or product exposure in the target area. 
+From the visualization of the heatmap, it helps support the previous visualiztion `August Peak Hours` in that the concentration on the count of rides falls between the popular times during working office hours and days with the interesting exception of Wednesdays. Furthermore, Saturdays have the most centralized heat mapping in the afternoons and implementing a ride sharing discount or policy can help further increase revenue or product exposure in the target area. 
 
 
 
