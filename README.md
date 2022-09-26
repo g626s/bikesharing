@@ -1,7 +1,7 @@
 # Bikesharing
 Created a data visualization story and dashboards for analysis of citi bike data using ETL methods in python to clean the data and Tableau for visualization.
 
-## Resources
+## Resources:
 - `Software and Applications:`
   - Python
   - Jupyter Notebook
@@ -16,7 +16,7 @@ In order to convince and solidify the proposal to our potential investors that a
 - Show the number of bike trips for all riders and genders for each hour of each day of the week
 - Show the number of bike trips for each type of user and gender for each day of the week.
 
-## Results 
+## Results:
 For this part of the project, we created a story in Tableau and wrote our findings that describes the key outcomes of the NYC Citibike analysis:
 #### `August Peak Hours`
 ![Screen Shot 2022-09-24 at 6 54 08 PM](https://user-images.githubusercontent.com/107281474/192124985-7d18233e-06f3-498b-817b-aa53650580b5.png)
@@ -77,7 +77,7 @@ In this visualization, we created a heatmap that shows the number of bike trips 
 
 In correlation to the `User Type Breakdown` pie chart, the heatmap nearly visualizes the exact same data trend and behavior of number of subscribers of Citi Bike based on gender in which male subscribers are the most dominant compared ti female subscribers as well as customers. 
 
-## Summary 
+## Summary:
 With the given Citi bike dataset, to help further analyze and help our potential investors reach a conclusion, we would recommend on creating two additional visualizations for further analysis and strategy. It would be imperitive and vital to know and observe the Citi Bike customers and subscribers by age as well as income. This would be done by implementing Tableau's calculated field to use date of birth to get the age of each count of rider in the dataset as well as creating another parameter to visualize income. Lastly, another metric that could be used to analyze the data is converting the activity into measurable categories to draw subscription and product strategies to many target markets.
 
 
