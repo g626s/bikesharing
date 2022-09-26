@@ -36,6 +36,7 @@ From our `Checkout Time for Users` dashboard, we visualized and graphed the leng
 - Add the "tripduration" column that shows the "Hour" to the Filters field, and select "Show Filter".
 - Edit the X and Y axis labels by right-clicking on the axis label and selecting "Edit Axis".
 - Input the `Usertype Pie Chart` and `Count of 201908-citibike-tripdata.csv`
+
 From the dashboard, nearly 81% of the Citi Bike users are subscribers, whereas 19% of that recorded demographic are customers that sometimes frequent the services of Citi Bike. As the visualization displays, user retention of Citi Bike is very high and any future business endavors or market openings should incorporate and highly advertise premium subscription incentives for subscribers and more features and benefits for customer conversion. In addition, the peak of minute of trip duration is 5 minutes inferring that customers use Citi Bike services for quick commutes.
 
 #### `Checkout Times by Gender`
@@ -44,4 +45,5 @@ In this visualization, we graphed the length of time that bikes are checked out 
 - Repeated steps 1-4 of the `Checkout Times for Users` visualization.
 - Add the converted column for gender as a color to the Marks field, add it to the Filters field, and select "Show Filter".
 - Edit the X and Y axis labels by right-clicking on the axis label and selecting "Edit Axis".
+
 From the previous visualization, the checkout time trend between genders falls within the same timeframe and slope pattern. In the male category however, there is a massive slope and count of male riders than female and "unknown" customers. Although there are many customers who decide to not say their gender, the collection of data should have impleneted more inclusive answer selection to better understand the trip duration data. 
