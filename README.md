@@ -27,4 +27,13 @@ Citi Bike services to ride to and from their place of work as the typical workin
 ![Screen Shot 2022-09-24 at 7 13 08 PM](https://user-images.githubusercontent.com/107281474/192125321-48857212-2e3d-4dc2-8785-45cc7b6f2fc6.png)
 Our potential investors were curious about the bike utilization during the month of August after our initial findings in the `August Peak Hours` sheet. We then created a packed bubbles visualization called `Bike Utilization` to show the utilization of each Citi Bike in New York City. We used the bike ID as a metric for determining which bikes have the highest utilization. Since we found the number of trips per bike during the month of August, we needed to figure out how long those rides are and if there are bikes that need more attention than others. The bubbles in this plot show the bike utilization levels. If a bike has a higher utilization level, it will be a larger bubble. In addition the bike ID has a color filter from Red to Blue to distinguish the bike.
 
-
+#### `Checkout Time for Users`
+![Screen Shot 2022-09-24 at 7 30 41 PM](https://user-images.githubusercontent.com/107281474/192174004-b91ebbf3-3460-41df-862c-0a0c8d8330be.png)
+From our `Checkout Time for Users` dashboard, we visualized and graphed the length of time that bikes are checked out for all riders. in order to obtain this visualization, we:
+- Add the number of records or the generated field that counts the number of records in the CSV file to the Rows.
+- Add the "tripduration" column you converted to the Columns, and filter the "More" option by "Hour".
+- Add the "tripduration" column again to the Columns, and filter the "More" option by "Minute", and then change the values from "discrete" to "continuous".
+- Add the "tripduration" column that shows the "Hour" to the Filters field, and select "Show Filter".
+- Edit the X and Y axis labels by right-clicking on the axis label and selecting "Edit Axis".
+- Input the `Usertype Pie Chart` and `Count of 201908-citibike-tripdata.csv`
+From the dashboard, nearly 81% of the Citi Bike users are subscribers, whereas 19% of that recorded demographic are customers that sometimes frequent the services of Citi Bike. As the visualization displays, user retention of Citi Bike is very high and any future business endavors or market openings should incorporate and highly advertise premium subscription incentives for subscribers and more features and benefits for customer conversion. In addition, the peak of minute of trip duration is 5 minutes inferring that customers use Citi Bike services for quick commutes.
